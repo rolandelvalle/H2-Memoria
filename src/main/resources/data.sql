@@ -1,0 +1,2 @@
+INSERT INTO users (id_User, age, date_Birth, email, last_Name, name) VALUES (1, '26', '1996-01-04', 'correo@gmail.com', 'del Valle', 'Rolando')
+INSERT INTO users (id_User, age, date_Birth, email, last_Name, name) VALUES (2, '28', '1994-01-04', 'correo2@gmail.com', 'Castillo', 'Carlos')
